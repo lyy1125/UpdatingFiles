@@ -1,0 +1,5 @@
+rootProject.name = 'WebViewDemo'
+
+include ':app'
+include ':etw-react-native-webview-file-upload-android'
+project(':etw-react-native-webview-file-upload-android').projectDir = new File(rootProject.projectDir, '../node_modules/etw-react-native-webview-file-upload-android/android')

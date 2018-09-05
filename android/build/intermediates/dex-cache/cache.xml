@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d3c3fc81340b308da3d57a4143dacbf3499c04fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_cfd8ad218e4f43ca7787f025aa0dfbed82d1c79f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_de200f978701e877adb24e7ebfd100d78c3bbdd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b923cf6a29cbe07c729c8ab85ae57d8e24dfac32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_c2b72e40bc126c6eb6e183a7d82b08a74b95cf4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.51.0_32fa4a6c2af7db61d9de2147266f86da3815e498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8422096bd45971f7afb3015c3f95842813ed8199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_cf23b3163fbfcc15de77dc5201c4cacec669ad61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/WebViewDemo/etw-react-native-webview-file-upload-android/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81fff03e906a9d123e62d3296f2716f28685858e">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/WebViewDemo-etw-react-native-webview-file-upload-android-unspecified_0258e015bf8f3e50376c7d8eeaa9aeb9d38f2be9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c2215b8f9e4f6002f997eaaa95780287a5817136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_26c7684ced2534de3558f87a349e02e6745b97ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ad9cb260f16c70db0f8b10dbe1f7f694f5caae6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5c451d01e053948a6235c31fc939fc662847702d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_8fadfd4997596005013fc1bdc60ee5bcc1102692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_29d171dcc0471aa5eb1465f991e7a1a9a4b32c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_51f82e4d759387479ab518107e4cae04b5c85ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_219db92486e55e13065383f0b52af7389dd20e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_8967ffde497fd60c749d51c5e8ba2e07946ffa40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_a6eee2ae1159486953523ec1fc4c179609e7e669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_a5a2cbad730343fbf8da95479dfd6c078d3154fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_81a3ddcbaca681626e211da6f892957c854ecb5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/atoy/Desktop/AsiaInfo/网罗天下新版/WebViewDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_0feab92ca65cda424725e77cb03403658bc66b61.jar" />
+    </item>
+
+</items>
